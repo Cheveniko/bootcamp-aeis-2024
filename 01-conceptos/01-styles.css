@@ -1,0 +1,25 @@
+p {
+  color: rgb(200, 50, 100);
+}
+
+a {
+  color: green;
+}
+
+.link {
+  color: red;
+}
+
+.lista {
+  background: white;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
