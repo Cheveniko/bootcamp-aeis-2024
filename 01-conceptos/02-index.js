@@ -46,6 +46,10 @@ const arrowSuma = (a, b) => {
 // Arrays
 
 const array = [1, 2, 3, 4, 5];
+
+array.map((item, index) => {
+  console.log("Index ", index, ":", item);
+});
 // console.log(array[0]);
 
 const object = {
@@ -61,11 +65,11 @@ const object = {
   },
 };
 
-// Condicionales
-if (number < 200) {
-  console.log("Es menor a 200");
-} else {
-  console.log("Es mayor a 200");
-}
+// // Condicionales
+// if (number < 200) {
+//   console.log("Es menor a 200");
+// } else {
+//   console.log("Es mayor a 200");
+// }
 
 // console.log(arrowSuma(5, 10));

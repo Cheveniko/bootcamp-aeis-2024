@@ -41,3 +41,13 @@ Nicolás Baquero
 - [x] Reset CSS
 - [x] Variables CSS
 - [x] Estilizar To do list
+
+### Clase 4 Introducción a React
+
+- [x] Qué es un framework
+- [x] Creación de un proyecto en React con Vite
+- [x] Explicación estructura del proyecto
+- [x] Extensiones (Eslint, npm Intellisense)
+- [x] JSX
+- [x] Componentes
+- [x] To do list en React
