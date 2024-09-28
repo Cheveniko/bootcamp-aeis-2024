@@ -10,7 +10,7 @@ Nicolás Baquero
 
 ## Clases
 
-### Clase 1
+### Clase 1 Introducción a HTML y CSS
 
 - [x] Presentación instructor
 - [x] Sílabo
@@ -23,7 +23,7 @@ Nicolás Baquero
 - [x] Auto Rename Tag
 - [x] Opcionales: (Temas de colores, Better comments)
 
-### Clase 2
+### Clase 2 Introducción a JavaScript
 
 - [x] Instalar node.js
 - [x] Conceptos básicos de JavaScript (index.js)
@@ -32,7 +32,7 @@ Nicolás Baquero
 - [x] Extensiones (Better comments, material icons, tema de colores)
 - [x] Todo list (HTML, CSS, JS)
 
-### Clase 3
+### Clase 3 Estándares de Diseño y estilos CSS
 
 - [x] Instalar Figma
 - [x] Como estandarizar un tema de colores
@@ -51,3 +51,48 @@ Nicolás Baquero
 - [x] JSX
 - [x] Componentes
 - [x] To do list en React
+
+### Clase 5 React Pokedex
+
+- [x] Explicación Typescript
+- [x] Creación de proyecto con Vite
+- [x] Explicación npm
+- [x] Instalación tailwindcss y extensión vscode
+- [x] Inicio Pokedex en React
+
+### Clase 6 Finalización React Pokedex
+
+- [x] Explicación Use Effect y virtual DOM
+- [x] Consumir el POKEAPI
+
+### Clase 7 NextJS
+
+- [x] Explicación framework NextJS
+- [x] Creación de proyecto con NextJS
+- [x] Explicación diferencias entre Server y Client
+- [x] SSR
+- [x] Adaptación proyecto Pokedex a NextJS
+- [x] Completar rutas de la Pokedex
+
+### Clase 8 Sveltekit
+
+- [x] Explicación framework Sveltekit
+- [x] Creación de proyecto con Sveltekit
+- [x] Estados en Svelte
+- [x] Recreación proyecto Pokedex
+- [x] Component Party
+
+### Clase 9 Astro
+
+- [x] Explicación framework Astro
+- [x] Creación de proyecto con Astro
+- [x] Extensión Astro
+- [x] Prettier plugin tailwind
+- [x] Recreación proyecto Pokedex
+
+### Clase 10 Astro y deployment
+
+- [x] Finalzar pokedex astro
+- [x] Responsive design
+- [x] Proceso de build
+- [x] Deployments
